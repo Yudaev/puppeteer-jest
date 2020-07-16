@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yudaev/puppeteer-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yudaev/puppeteer-jest/issues"
+  },
+  "homepage": "https://github.com/Yudaev/puppeteer-jest#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "@jest/globals": "^26.1.0",
+    "puppeteer": "^5.1.0"
+  }
+}
